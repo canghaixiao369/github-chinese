@@ -1,0 +1,13 @@
+!.gitignore
+
+# windows thumbnail cache
+Thumbs.db
+Desktop.ini
+
+# Mac DS_Store Files
+.DS_Store
+
+# webstorm
+.idea
+
+main(local).js
